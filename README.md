@@ -1,6 +1,6 @@
 # CinemaBooking - Онлайн бронирование билетов в кинотеатр
 
-![CinemaBooking Preview](https://napster128.github.io/CinemaBooking/img/preview.png)
+![CinemaBooking Preview](img/preview.png)
 
 ## О проекте
 CinemaBooking - это веб-страница бронирования билетов в кинотеатр, разработанная для премьеры фильма «Мстители: Война бесконечности». Проект реализован с использованием HTML, CSS и JavaScript, а также поддерживает адаптивную верстку для удобного использования на различных устройствах.
@@ -19,12 +19,12 @@ CinemaBooking - это веб-страница бронирования биле
 ## Установка и запуск
 1. Клонируйте репозиторий:
    ```sh
-   git clone git@github.com:Napster128/CinemaBooking.git
+   git clone git@github.com:Napster256/CinemaBooking.git
    ```
 2. Откройте `index.html` в браузере или разверните на веб-сервере.
 
 ## Демо
-Проект доступен онлайн: [CinemaBooking](https://napster128.github.io/CinemaBooking/)
+Проект доступен онлайн: [CinemaBooking](https://napster256.github.io/CinemaBooking/)
 
 ## Контакты
 Если у вас есть вопросы или предложения, свяжитесь со мной через GitHub Issues.
