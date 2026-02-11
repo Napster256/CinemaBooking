@@ -19,7 +19,7 @@ CinemaBooking - это веб-страница бронирования биле
 ## Установка и запуск
 1. Клонируйте репозиторий:
    ```sh
-   git clone git@github.com:Napster256/CinemaBooking.git
+   git clone git@hostname:user/CinemaBooking.git
    ```
 2. Откройте `index.html` в браузере или разверните на веб-сервере.
 
