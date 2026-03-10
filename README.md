@@ -1,4 +1,4 @@
-# CinemaBooking - Онлайн бронирование билетов в кинотеатр
+# CinemaBooking <br/> Онлайн бронирование билетов в кинотеатр
 
 ![CinemaBooking Preview](img/preview.png)
 
